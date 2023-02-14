@@ -1,0 +1,3 @@
+# djangoBSV
+
+Курс по Django. 
